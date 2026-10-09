@@ -1,0 +1,5 @@
+from paste import deploy
+
+def api_server():
+  app = deploy.loadapp("config:/Users/chiragjain/personal/python_server/api-paste.ini", "main")
+  return app

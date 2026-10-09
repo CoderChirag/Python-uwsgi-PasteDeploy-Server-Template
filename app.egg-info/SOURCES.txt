@@ -1,5 +1,9 @@
+AUTHORS
+ChangeLog
+readme.md
 setup.cfg
 setup.py
+uwsgi.ini
 app/__init__.py
 app/app.py
 app.egg-info/PKG-INFO
@@ -7,6 +11,8 @@ app.egg-info/SOURCES.txt
 app.egg-info/dependency_links.txt
 app.egg-info/entry_points.txt
 app.egg-info/not-zip-safe
+app.egg-info/pbr.json
 app.egg-info/top_level.txt
 app/server/__init__.py
-app/server/server.py
+app/server/api.py
+dist/app-0.1.0.tar.gz

@@ -1,2 +1,2 @@
 [wsgi_scripts]
-app = app.server.server:main_api_uwsgi
+app = app.cmd.server:main_api_uwsgi
