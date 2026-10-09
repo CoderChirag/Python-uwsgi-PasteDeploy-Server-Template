@@ -1,0 +1,7 @@
+CHANGES
+=======
+
+* add filters & app
+* add paste.app\_factory
+* add static routing
+* bootstrap initial uwsgi app (no working server callable yet)
